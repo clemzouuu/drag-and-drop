@@ -1,0 +1,35 @@
+body {
+    background: #1119;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.base {
+    background-image: url("https://source.unsplash.com/200x200/");
+    position: relative;
+    height: 200px;
+    width: 200px;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+}
+
+.hold {
+    border: solid 5px black; 
+}
+
+.case {
+    display: inline-block;
+    height: 210px;
+    width: 210px;
+    margin: 20px;
+    border: solid 4px black;
+    background-color: white;
+}
+
+.hovered {
+    border-style: dashed;
+    opacity: 0.3;
+}
