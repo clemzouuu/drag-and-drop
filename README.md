@@ -1,3 +1,5 @@
+Notion that i just learned 
+
 Drag and drop made in JavaScript
 
 An image is on the screen
