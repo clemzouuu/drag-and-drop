@@ -2,7 +2,7 @@ Notion that i just learned
 
 Drag and drop made in JavaScript
 
-An image is on the screen
+An image is on the screen.
 
 ![Capture d’écran 2022-06-15 à 22 35 59](https://user-images.githubusercontent.com/92720413/173922451-afa06144-8296-44eb-916f-f7b6c492f8a0.png)
 
